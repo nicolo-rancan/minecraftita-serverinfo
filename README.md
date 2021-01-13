@@ -6,7 +6,7 @@
 
 ## Installation
 
-`git clone https://github.com/nicolo-rancan/minecraftita-serverinfo.git`
+###### Download from github `git clone https://github.com/nicolo-rancan/minecraftita-serverinfo.git`
 
 ###### You need to enable mysql binary logging by editing `my.cnf /my.ini` file.
 
